@@ -14,3 +14,4 @@ git clone git@github.com:rarrit/git.git
 > 그렇다고 SSR을 진행할 경우, 페이지 이동마다 새로고침이 발생해 UX적으로 좋지않은 환경
 SPA와 SSR의 장점을 가져가기 위한 방법
 ---
+회사계정이라 탈주함~
